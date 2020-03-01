@@ -1,0 +1,3 @@
+# Project exclude paths
+/SubRecommender/dataLoader/target/
+/SubRecommender/StasticRecommender/target/
